@@ -1,0 +1,6 @@
+foo: echo foo
+bar: echo bar
+ifconfig: ifconfig
+ping: ping google.com
+toolbar: open http://github.com/noahlt/toolbar
+noahlt: open http://twitter.com/noahlt
